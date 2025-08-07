@@ -3,7 +3,7 @@
 **Isha’s Boutique** is a responsive, single-page landing website for a boutique fashion design studio. It presents a modern, elegant digital presence to showcase personalized services, featured collections, and client testimonials — all designed for high-end fashion enthusiasts.
 
 ## 🌐 Live Preview
-> *(Add a live link here once deployed)*
+> (https://stupendous-maamoul-36e194.netlify.app/)
 
 
 
